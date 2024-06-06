@@ -1,4 +1,4 @@
-# Library Management Application
+# full stack web app
 
 ## Description
 
